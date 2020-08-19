@@ -1,0 +1,65 @@
+/* style.css */
+body{
+    background: rgb(245,245,245);
+    color: #211F3E;
+    font-size: 25px;
+    font-family: 'Lora', serif;
+    margin: 0;
+  }
+  h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #1C1E44;
+    font-weight: lighter;
+    font-size: 12px;
+  }
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #8F2F28;
+    font-weight: lighter;
+    font-size: 10px;
+  }
+  a {
+    color: #E5897C;
+  }
+  a:hover {
+    text-decoration: none;
+    color: #9A3C33;
+  }
+
+  #banner{
+    text-align: center;
+    background-image: url(images/banner.jpg);
+    background-size: cover;
+    padding: 150px 0;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+  }
+  #banner h1 {
+    color: white;
+    font-size: 50px;
+  }
+  #banner p {
+    color: white;
+    opacity: 0.9;
+    font-size: 30px;
+    font-weight: lighter;
+  }
+  #footer{
+    padding: 30px;
+    background: #2E2E5B;
+    color: white;
+    font-size: 12px;
+  }
+  .card{
+    padding: 50px;
+    text-align: center;
+    font-weight: lighter;
+  }
+  #footer a {
+    color: #DCC0C0;
+    font-size: 12px;
+  }
+  #footer a:hover {
+    color: #983933;
+    font-size: 12px;
+  }
