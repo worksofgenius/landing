@@ -1,5 +1,17 @@
-# landing
+# Landing Page
 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [visit](#visit)
+
+## General info
 This is a responsive landing page created in 2 hours.
-
-https://worksofgenius.github.io/landing/
+	
+## Technologies
+This landing page was created with:
+* HTML/CSS
+* GitHub Pages
+	
+## Visit
+To visit this project, go to: https://worksofgenius.github.io/landing/
